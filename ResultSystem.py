@@ -7,7 +7,7 @@ while True:
         break
     print("Error: Marks must be between 0 and 100.")
 
-# Physics marks
+# Physics marks....
 while True:
     phy_marks = int(input("Enter your Physics marks (out of 100): "))
     if 0 <= phy_marks <= 100:
