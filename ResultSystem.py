@@ -1,4 +1,4 @@
-# --- Step 1: Take input for each subject with validation ---
+# --- Step 1: Take input for each subject with validation 
 
 # Maths marks
 while True:
