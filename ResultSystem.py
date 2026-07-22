@@ -1,6 +1,6 @@
 # --- Step 1: Take input for each subject with validation ---
 
-# Maths marks...
+# Maths marks
 while True:
     math_marks = int(input("Enter your Maths marks (out of 100): "))
     if 0 <= math_marks <= 100:
