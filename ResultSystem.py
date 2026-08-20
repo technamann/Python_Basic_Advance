@@ -2,7 +2,7 @@
 
 # Maths marks
 while True:
-    math_marks = int(input("Enter your Maths marks (out of 100): "))
+    math_marks = int(input("Enter your Maths marks (out of 100): "))//
     if 0 <= math_marks <= 100:
         break
     print("Error: Marks must be between 0 and 100.")
